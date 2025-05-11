@@ -1,0 +1,66 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.dist-info/
+*.egg
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+nosetests.xml
+test-results/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.cache
+pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Cython debug symbols
+cython_debug/
+
+# VS Code settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm
+*.iml
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Other
+*.DS_Store
+*.env
+*.env.local
+*.env.*.local
+*.local
+*.local.env
